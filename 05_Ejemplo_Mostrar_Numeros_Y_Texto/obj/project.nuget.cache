@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "o/7eUMhH5Kg0iE0TVK1gbla4Wdb5c64MS+uuL0yM1o53KbJAQogdgVpbRUluCnWpLnfVDKi2TJH3MeMOFwtrJQ==",
+  "success": true,
+  "projectFilePath": "/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/05_Ejemplo_Mostrar_Numeros_Y_Texto/05_Ejemplo_Mostrar_Numeros_Y_Texto.csproj",
+  "expectedPackageFiles": [
+    "/Users/sorigil/.nuget/packages/microsoft.netcore.app/2.1.0/microsoft.netcore.app.2.1.0.nupkg.sha512",
+    "/Users/sorigil/.nuget/packages/microsoft.netcore.dotnetapphost/2.1.0/microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
+    "/Users/sorigil/.nuget/packages/microsoft.netcore.dotnethostpolicy/2.1.0/microsoft.netcore.dotnethostpolicy.2.1.0.nupkg.sha512",
+    "/Users/sorigil/.nuget/packages/microsoft.netcore.dotnethostresolver/2.1.0/microsoft.netcore.dotnethostresolver.2.1.0.nupkg.sha512",
+    "/Users/sorigil/.nuget/packages/microsoft.netcore.platforms/2.1.0/microsoft.netcore.platforms.2.1.0.nupkg.sha512",
+    "/Users/sorigil/.nuget/packages/microsoft.netcore.targets/2.1.0/microsoft.netcore.targets.2.1.0.nupkg.sha512",
+    "/Users/sorigil/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

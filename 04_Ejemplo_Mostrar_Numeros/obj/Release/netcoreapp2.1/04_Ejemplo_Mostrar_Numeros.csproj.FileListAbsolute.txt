@@ -1,0 +1,13 @@
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.deps.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.runtimeconfig.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.runtimeconfig.dev.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.dll
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/bin/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.pdb
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.AssemblyInfoInputs.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.AssemblyInfo.cs
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.csproj.CoreCompileInputs.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.dll
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.pdb
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.genruntimeconfig.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/04_Ejemplo_Mostrar_Numeros/obj/Release/netcoreapp2.1/04_Ejemplo_Mostrar_Numeros.csproj.AssemblyReference.cache

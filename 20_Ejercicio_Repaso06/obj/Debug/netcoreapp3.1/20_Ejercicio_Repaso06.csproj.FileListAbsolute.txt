@@ -1,0 +1,12 @@
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.deps.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.runtimeconfig.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.runtimeconfig.dev.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.dll
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/bin/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.pdb
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.AssemblyInfoInputs.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.AssemblyInfo.cs
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.csproj.CoreCompileInputs.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.dll
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.pdb
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/20_Ejercicio_Repaso06/obj/Debug/netcoreapp3.1/20_Ejercicio_Repaso06.genruntimeconfig.cache

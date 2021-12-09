@@ -1,0 +1,13 @@
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/bin/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.deps.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/bin/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.runtimeconfig.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/bin/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.runtimeconfig.dev.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/bin/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.dll
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/bin/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.pdb
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/obj/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.csproj.AssemblyReference.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/obj/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/obj/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.AssemblyInfoInputs.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/obj/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.AssemblyInfo.cs
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/obj/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.csproj.CoreCompileInputs.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/obj/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.dll
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/obj/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.pdb
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/02_Ejemplo_Comentarios/obj/Debug/netcoreapp2.1/02_Ejemplo_Comentarios.genruntimeconfig.cache

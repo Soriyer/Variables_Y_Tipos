@@ -1,0 +1,12 @@
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/bin/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.deps.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/bin/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.runtimeconfig.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/bin/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.runtimeconfig.dev.json
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/bin/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.dll
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/bin/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.pdb
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/obj/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/obj/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.AssemblyInfoInputs.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/obj/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.AssemblyInfo.cs
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/obj/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.csproj.CoreCompileInputs.cache
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/obj/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.dll
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/obj/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.pdb
+/Users/sorigil/Desktop/BBKBootcamp precurso/01_Variables_Y_Tipos/13_Ejemplo_Input_Numerico/obj/Debug/netcoreapp2.1/13_Ejemplo_Input_Numerico.genruntimeconfig.cache
